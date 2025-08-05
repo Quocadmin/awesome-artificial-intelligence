@@ -243,3 +243,66 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waived all copyright and related or neighbouring rights to this work.
+
+
+1. Dự án này là gì?
+“Awesome Artificial Intelligence (AI)” là một danh sách tổng hợp (curated list) các tài nguyên về trí tuệ nhân tạo (AI). Dự án này tập hợp lại các công cụ, khóa học, sách, bài giảng, bài báo, mã nguồn, video, tổ chức, cuộc thi, và nhiều tài liệu miễn phí khác liên quan đến AI.
+
+Repo này không phải là mã nguồn code để chạy AI, mà giống như một “kho thư viện” khổng lồ, giúp người mới lẫn chuyên gia dễ dàng tìm kiếm tài nguyên học AI hoặc các ứng dụng AI nổi bật.
+
+2. Nội dung chính có gì?
+Danh sách tài nguyên trong repo được chia thành nhiều mục lớn:
+
+Công cụ (Tools):
+
+Ví dụ: ChatGPT, Gemini, Claude (chatbot AI), Midjourney, DALL·E (tạo ảnh bằng AI), Sora (tạo video bằng AI), Taskade (AI tự động hóa công việc),...
+
+Khóa học (Courses):
+
+Tập hợp các khóa học AI nổi tiếng và dễ tiếp cận cho người mới như: CS50 AI, MIT Deep Learning, Coursera, Udacity, Elements of AI,…
+
+Sách (Books):
+
+Sách về AI, Machine Learning, Deep Learning (nhiều quyển rất kinh điển).
+
+Mã nguồn (Code):
+
+Các thư viện hoặc ví dụ mã nguồn để bạn thực hành xây dựng AI.
+
+Bài giảng, video (Lectures, Videos):
+
+Video bài giảng, hội thảo AI từ các trường đại học, chuyên gia hàng đầu.
+
+Các tổ chức, tạp chí, cuộc thi, newsletter, diễn đàn…
+
+Mọi thứ giúp bạn học, cập nhật, nghiên cứu, hoặc cộng tác trong lĩnh vực AI.
+
+3. Repo này dành cho ai?
+Người mới học AI:
+Bạn sẽ tìm được các khóa học dễ tiếp cận, sách nhập môn, hướng dẫn từng bước.
+
+Lập trình viên, sinh viên:
+Dễ tra cứu các thư viện, code mẫu, tài liệu nâng cao.
+
+Nhà nghiên cứu, chuyên gia:
+Có thêm nguồn tham khảo mới, cập nhật các công cụ và tài liệu mới nhất.
+
+Bất kỳ ai tò mò về AI:
+Muốn hiểu AI là gì, nó có thể làm gì và học từ đâu.
+
+4. Cách sử dụng repo này?
+Chỉ cần mở file README của repo (chính là đoạn bạn gửi ở trên), bạn sẽ thấy từng mục, link đến các tài nguyên.
+
+Chọn lĩnh vực bạn muốn học hoặc thử (ví dụ: “Khóa học”, “Công cụ chat”, “Tạo ảnh AI”, “Sách AI”), click vào link để truy cập tài liệu đó.
+
+Bạn có thể đóng góp thêm tài nguyên nếu muốn (bằng cách tạo pull request trên GitHub).
+
+5. Lợi ích của repo này là gì?
+Tiết kiệm thời gian tìm kiếm: Tài nguyên được chọn lọc sẵn, cập nhật liên tục, tránh phải tự tìm từ đầu.
+
+Có nhiều lựa chọn phù hợp mọi trình độ.
+
+Cộng đồng cùng tham gia đóng góp: Nếu bạn phát hiện một tài nguyên mới hữu ích, bạn cũng có thể bổ sung vào danh sách này.
+
+6. Tổng kết ngắn gọn
+Awesome AI là một “sổ tay tổng hợp tài nguyên về trí tuệ nhân tạo” dành cho mọi đối tượng – bạn có thể học, thực hành, tham khảo hoặc đóng góp thêm. Đây là repo rất hữu ích nếu bạn muốn “bắt đầu học AI”, “tìm kiếm công cụ AI mới”, hoặc “tham khảo thêm tài liệu AI hiện đại”.
